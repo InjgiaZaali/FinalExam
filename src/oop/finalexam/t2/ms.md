@@ -1,5 +1,4 @@
 # University Management System (UMS)
-![image](https://github.com/user-attachments/assets/9dcb273d-273b-4b48-89d9-c0764312d3ec)
 
 ## Project Description
 
@@ -64,6 +63,8 @@ The system provides functionality to print detailed information about any studen
 ---
 
 ## UML Diagram
+![image](https://github.com/user-attachments/assets/aba2689a-6f2d-43b7-8aea-6383f4a77d0f)
+
 
 The UML diagram illustrates the structure and relationships between the classes `UMS`, `Student`, and `LearningCourse`.
 
@@ -75,15 +76,6 @@ The UML diagram illustrates the structure and relationships between the classes 
   - `UMS` *has many* `Student` objects.
   - `Student` *has many* `LearningCourse` objects.
 
-### How to create the UML diagram:
-
-1. Open Google Docs and create a new document.
-2. Use **tables** to represent each class with their fields and methods.
-3. Use **Insert > Drawing** to create arrows between classes showing relationships.
-4. Insert the completed drawing into your Google Docs file.
-5. Save and provide a link to your Google Docs UML diagram or export it as an image and include it with your submission.
-
----
 
 ## Author
 
