@@ -114,7 +114,7 @@ public class UMS {
                 "Zaali",
                 "Injgia",
                 "3970104684x",
-                "zaali.injgia.1@gmail.com",
+                "zaali.injgia.1@iliauni.edu.ge",
                 "Computer Science"
         );
 
