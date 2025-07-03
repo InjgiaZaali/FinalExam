@@ -1,4 +1,5 @@
 # University Management System (UMS)
+![image](https://github.com/user-attachments/assets/9dcb273d-273b-4b48-89d9-c0764312d3ec)
 
 ## Project Description
 
